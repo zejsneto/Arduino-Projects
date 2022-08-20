@@ -4,4 +4,4 @@
 ⚠️Some parts may be written in Portuguese-BR, please use google translator if you need.
 
 # Projetos-com-Arduino
-💻Projetos feitos com Arduino e linguagem C++.
+💻Projetos realizados com o Arduino e a linguagem C++.
