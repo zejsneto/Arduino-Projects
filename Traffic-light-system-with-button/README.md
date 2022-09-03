@@ -7,7 +7,7 @@ which will be pressed by the pedestrian when desired pass through. The time to c
 Whenever there are 2 seconds left to close, the red traffic light for the pedestrians must flash until fully closed.<br>
 
 <p align="center">
-  <img src="./images/operation.png" />
+  <img src="./images/operation.png" width="65%"/>
 </p>
 
 ---
@@ -18,15 +18,15 @@ Whenever there are 2 seconds left to close, the red traffic light for the pedest
 
 ---
 -->
-## 🛠️ **Technologies**
-
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
-
----
-
 ## ⚙️ **Configuration**
 
 <p align="center">
   <img src="./images/system.png" width="50%"/>
 </p>
+
+---
+
+## 🛠️ **Technologies**
+
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
