@@ -1,10 +1,10 @@
-# Traffic-light-system-with-button
+# Low-light-thermistor-based-temperature detection
 
 ## ℹ️ Description
 
-Make a project of a traffic light for cars and pedestrians like what we see on the streets. The set must have a button, 
-which will be pressed by the pedestrian when desired pass through. The time to cross should be around 4 seconds. 
-Whenever there are 2 seconds left to close, the red traffic light for the pedestrians must flash until fully closed.<br>
+Build a project to light up 5 LEDs according to the temperature
+measured by the NTC thermistor. The LEDs should only light up if the
+ambient light is low.<br>
 
 <p align="center">
   <img src="./images/operation.png" width="65%"/>
@@ -18,6 +18,13 @@ Whenever there are 2 seconds left to close, the red traffic light for the pedest
 
 ---
 -->
+## ⚙️ **Materials**
+
+* asdas
+* adssad
+* adsadas
+---
+
 ## ⚙️ **Configuration**
 
 <p align="center">
