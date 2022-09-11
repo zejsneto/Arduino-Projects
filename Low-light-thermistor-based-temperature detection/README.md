@@ -20,9 +20,13 @@ ambient light is low.<br>
 -->
 ## ⚙️ **Materials**
 
-* asdas
-* adssad
-* adsadas
+* Arduino
+* 2 red LEDs
+* 1 yellow LED
+* 2 green LEDs
+* 1 LDR
+* 1 NTC 10k temperature sensor (thermistor)
+* Various resistors
 ---
 
 ## ⚙️ **Configuration**
