@@ -18,7 +18,7 @@ ambient light is low.<br>
 
 ---
 -->
-## ⚙️ **Materials**
+## 🔌 **Materials**
 
 * Arduino
 * 2 red LEDs
