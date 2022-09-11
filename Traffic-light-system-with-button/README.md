@@ -14,7 +14,7 @@ Whenever there are 2 seconds left to close, the red traffic light for the pedest
 <!---
 ## 👁️‍🗨️ Preview
 ![YouTubeVideo](https://img.shields.io/badge/--05122A?style=flat&logo=youtube)&nbsp;
-[Video](youtube.com/meuvideo)<br>
+[Video](youtube.com/myvideo)<br>
 
 ---
 -->
