@@ -21,6 +21,7 @@ ambient light is low.<br>
 ## 🔌 **Materials**
 
 * Arduino
+* Protoboard
 * 2 red LEDs
 * 1 yellow LED
 * 2 green LEDs
