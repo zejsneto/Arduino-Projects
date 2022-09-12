@@ -25,6 +25,7 @@ Whenever there are 2 seconds left to close, the red traffic light for the pedest
 * 2 red LEDs
 * 1 yellow LED
 * 2 green LEDs
+* 1 button
 * Various resistors
 ---
 ## ⚙️ **Configuration**
