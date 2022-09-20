@@ -27,7 +27,7 @@ ambient light is low.<br>
 * 2 green LEDs
 * 1 LDR
 * 1 NTC 10k temperature sensor (thermistor)
-* Various resistors
+* Various resistors and cables
 ---
 
 ## ⚙️ **Configuration**
