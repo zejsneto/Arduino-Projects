@@ -24,8 +24,10 @@ Whenever there are 2 seconds left to close, the red traffic light for the pedest
 * Protoboard
 * 1 LED (optional)
 * 1 AC Lamp 
+* 1 Relay
+* 1 Function generator
 * 5 buttons
-* Various resistors
+* Various resistors and cables
 ---
 ## ⚙️ **Configuration**
 
