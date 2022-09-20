@@ -18,10 +18,9 @@
 
 * Arduino
 * Protoboard
-* 1 Akiyama DC Motor (5V - 130mA)
-* 1 TIP122 transistor
-* 1 Diode
+* 1 16x2 LCD
 * 1 Potentiometer
+* 2 Buttons
 * Various resistors and cables
 ---
 
