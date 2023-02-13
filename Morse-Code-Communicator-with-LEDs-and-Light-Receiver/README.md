@@ -1,11 +1,9 @@
-# Low-light-thermistor-based-temperature detection
+# Morse-Code-Communicator-with-LEDs-and-Light-Receiver
 
 ## ℹ️ Description
 
-<p align="center">
-  <img src="./images/operation.png" width="65%"/>
-</p>
-
+Make a communication system between two arduinos through the light of LEDs through morse code and light receivers.<br><br>
+The arduino 1 must send two numbers (0 to 9) through morse code, the arduino 2 must receive these two numbers, perform their sum and return the value by morse code through its led to the arduino 1 LDR. Finally, the arduino 1 must print the summed value on the serial terminal.
 ---
 <!---
 ## 👁️‍🗨️ Preview
